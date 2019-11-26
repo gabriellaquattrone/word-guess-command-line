@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-command-line",
+  "version": "1.0.0",
+  "description": "This is the word guess game, but on the command line!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellaquattrone/word-guess-command-line.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellaquattrone/word-guess-command-line/issues"
+  },
+  "homepage": "https://github.com/gabriellaquattrone/word-guess-command-line#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
